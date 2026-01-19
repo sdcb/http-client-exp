@@ -1,0 +1,28 @@
+url=http://localhost:5055/ping
+requests=20000, parallel=200, timeoutSeconds=5, mode=new
+queued: 1000/20000, success: 805, failed: 0, elapsed: 00:00:00.7099803
+queued: 2000/20000, success: 1800, failed: 0, elapsed: 00:00:01.5324361
+queued: 3000/20000, success: 2800, failed: 0, elapsed: 00:00:02.3573877
+queued: 4000/20000, success: 3800, failed: 0, elapsed: 00:00:03.2069000
+queued: 5000/20000, success: 4800, failed: 0, elapsed: 00:00:04.0313423
+queued: 6000/20000, success: 5802, failed: 0, elapsed: 00:00:04.8687039
+queued: 7000/20000, success: 6801, failed: 0, elapsed: 00:00:05.7252572
+queued: 8000/20000, success: 7800, failed: 0, elapsed: 00:00:06.5624078
+queued: 9000/20000, success: 8800, failed: 0, elapsed: 00:00:07.4244971
+queued: 10000/20000, success: 9800, failed: 0, elapsed: 00:00:08.2911306
+queued: 11000/20000, success: 10800, failed: 0, elapsed: 00:00:09.1755667
+queued: 12000/20000, success: 11801, failed: 0, elapsed: 00:00:10.1160925
+queued: 13000/20000, success: 12802, failed: 0, elapsed: 00:00:11.0165038
+queued: 14000/20000, success: 13801, failed: 0, elapsed: 00:00:11.9382103
+queued: 15000/20000, success: 14802, failed: 0, elapsed: 00:00:12.8002543
+queued: 16000/20000, success: 15801, failed: 0, elapsed: 00:00:13.7185127
+ERR#3: HttpRequestException 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。 (localhost:5055)
+ERR#2: HttpRequestException 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。 (localhost:5055)
+ERR#1: HttpRequestException 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。 (localhost:5055)
+ERR#5: HttpRequestException 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。 (localhost:5055)
+ERR#4: HttpRequestException 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。 (localhost:5055)
+queued: 17000/20000, success: 16682, failed: 118, elapsed: 00:00:14.7578539
+queued: 18000/20000, success: 16684, failed: 1118, elapsed: 00:00:15.4297844
+queued: 19000/20000, success: 17661, failed: 1140, elapsed: 00:00:16.2796589
+queued: 20000/20000, success: 18661, failed: 1140, elapsed: 00:00:17.3258406
+done: success=18860, failed=1140, elapsed=00:00:17.3996862

@@ -1,0 +1,23 @@
+url=http://localhost:5055/ping
+requests=20000, parallel=200, timeoutSeconds=5, mode=factory
+queued: 1000/20000, success: 801, failed: 0, elapsed: 00:00:00.7094395
+queued: 2000/20000, success: 1801, failed: 0, elapsed: 00:00:01.5072383
+queued: 3000/20000, success: 2800, failed: 0, elapsed: 00:00:02.3047647
+queued: 4000/20000, success: 3800, failed: 0, elapsed: 00:00:03.0607252
+queued: 5000/20000, success: 4800, failed: 0, elapsed: 00:00:03.8370598
+queued: 6000/20000, success: 5800, failed: 0, elapsed: 00:00:04.6621606
+queued: 7000/20000, success: 6800, failed: 0, elapsed: 00:00:05.4589104
+queued: 8000/20000, success: 7800, failed: 0, elapsed: 00:00:06.2913588
+queued: 9000/20000, success: 8800, failed: 0, elapsed: 00:00:07.0629536
+queued: 10000/20000, success: 9800, failed: 0, elapsed: 00:00:07.8438472
+queued: 11000/20000, success: 10800, failed: 0, elapsed: 00:00:08.5796209
+queued: 12000/20000, success: 11800, failed: 0, elapsed: 00:00:09.3663975
+queued: 13000/20000, success: 12801, failed: 0, elapsed: 00:00:10.1984757
+queued: 14000/20000, success: 13800, failed: 0, elapsed: 00:00:11.0474925
+queued: 15000/20000, success: 14800, failed: 0, elapsed: 00:00:11.9175753
+queued: 16000/20000, success: 15800, failed: 0, elapsed: 00:00:12.7356429
+queued: 17000/20000, success: 16801, failed: 0, elapsed: 00:00:13.4991148
+queued: 18000/20000, success: 17800, failed: 0, elapsed: 00:00:14.2912941
+queued: 19000/20000, success: 18800, failed: 0, elapsed: 00:00:15.0844828
+queued: 20000/20000, success: 19800, failed: 0, elapsed: 00:00:15.8439387
+done: success=20000, failed=0, elapsed=00:00:15.9485251

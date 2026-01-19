@@ -1,0 +1,24 @@
+  正在确定要还原的项目…
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net6\HttpLeakClient.Net6.csproj]
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Server\HttpLeakServer\HttpLeakServer.csproj]
+  已还原 C:\Users\ZhouJie\source\repos\http-client-exp\Server\HttpLeakServer\HttpLeakServer.csproj (用时 111 毫秒)。
+  已还原 C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net6\HttpLeakClient.Net6.csproj (用时 111 毫秒)。
+  3 个项目(共 5 个)是最新的，无法还原。
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net6\HttpLeakClient.Net6.csproj]
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Server\HttpLeakServer\HttpLeakServer.csproj]
+  HttpLeakClient.Net8 -> C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net8\bin\Debug\net8.0\HttpLeakClient.Net8.dll
+  HttpLeakClient.Net48 -> C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net48\bin\Debug\net48\HttpLeakClient.Net48.exe
+  HttpLeakClient.Net10 -> C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net10\bin\Debug\net10.0\HttpLeakClient.Net10.dll
+  HttpLeakClient.Net6 -> C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net6\bin\Debug\net6.0\HttpLeakClient.Net6.dll
+  HttpLeakServer -> C:\Users\ZhouJie\source\repos\http-client-exp\Server\HttpLeakServer\bin\Debug\net6.0\HttpLeakServer.dll
+
+已成功生成。
+
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net6\HttpLeakClient.Net6.csproj]
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Server\HttpLeakServer\HttpLeakServer.csproj]
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Clients\HttpLeakClient.Net6\HttpLeakClient.Net6.csproj]
+C:\Program Files\dotnet\sdk\10.0.102\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(32,5): warning NETSDK1138: 目标框架“net6.0”不受支持，将来不会收到安全更新。有关支持策略的详细信息，请参阅 https://aka.ms/dotnet-core-support。 [C:\Users\ZhouJie\source\repos\http-client-exp\Server\HttpLeakServer\HttpLeakServer.csproj]
+    4 个警告
+    0 个错误
+
+已用时间 00:00:05.48

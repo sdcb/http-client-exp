@@ -1,0 +1,4 @@
+Clients/*/obj/**
+Clients/*/bin/**
+Server/*/obj/**
+Server/*/bin/**
